@@ -8,3 +8,15 @@ body {
         width: 100%;
     }
 }
+
+.mc-style {
+    background-color: rgb(0, 255, 242);
+    height: 300px;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 15px;
+
+    p {
+        font-weight: bold;
+    }
+}
